@@ -1,6 +1,8 @@
 # workout-tracker
 # Description
 This application will allow the user to create and track different workouts and view their weekly progress in their dashboard on charts.
+
+Live deploy at https://radiant-reaches-63540.herokuapp.com/
 -----------------------------
 ## Table of Contents
 
